@@ -278,7 +278,7 @@ nav{
 }
 
 
-.secoundary-button  {
+.secoundary-button {
     border: 0.5px solid #004c78;
     border-radius: 6px;
     font-weight: 700;
@@ -287,7 +287,6 @@ nav{
     transition:0.2s ease-out;
     text-decoration: none;
 }
-
 .secoundary-button:hover{
     border-color :black;
     background-color: #004c78 !important;
@@ -385,4 +384,60 @@ h1{
 
 #text h1{
   color:#00a4e3;
+}
+
+/* .cars{
+   margin-left: 180px;
+   width: 300px;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex{
+
+  flex-direction: column;
+
+}
+
+
+.flex h1 p{
+
+  justify-content: center;
+  align-items: center;
+  height:100v ;
+} */
+ 
+button{
+  
+    border: 0.5px solid #004c78;
+    border-radius: 6px;
+    font-weight: 700;
+    color: black;
+    padding:7px 15px;
+    transition:0.2s ease-out;
+    text-decoration: none;
+
+    
+}
+
+button:hover{
+    border-color :black;
+    background-color: #004c78 !important;
+    color: white;
+}
+
+
+.footer{
+
+  padding-top: 30px;
+  height: 500px !important;
+  background-color: #004c78;
+}
+
+#footer{
+
+  color: white;
+  
 }
